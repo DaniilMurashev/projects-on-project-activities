@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\bmicalcmur\bin\Debug\bmicalcmur.exe.config
+C:\Users\student\source\repos\bmicalcmur\bin\Debug\bmicalcmur.exe
+C:\Users\student\source\repos\bmicalcmur\bin\Debug\bmicalcmur.pdb
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.csprojAssemblyReference.cache
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.Form1.resources
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.Properties.Resources.resources
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.csproj.GenerateResource.cache
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.exe
+C:\Users\student\source\repos\bmicalcmur\obj\Debug\bmicalcmur.pdb
